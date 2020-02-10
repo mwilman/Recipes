@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using MyCookingMaster.BL.Common;
 
 namespace MyCookingMaster.BL
 {

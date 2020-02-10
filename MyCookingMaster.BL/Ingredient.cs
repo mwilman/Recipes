@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using MyCookingMaster.BL.Common;
 
 namespace MyCookingMaster.BL
 {
